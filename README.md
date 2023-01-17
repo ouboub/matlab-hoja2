@@ -1,4 +1,3 @@
-
 # Las siguientes reglas son obligatorias
 
 1.  El alumno encuentra  para cada práctica un documento en formato **mlx**
